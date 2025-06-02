@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 :root {
---branco-principal#ffff;
+--branco-principal: #FFFFFF;
 --cinza-secundario:#C0C0C0;
---botao-azul:#167F7;
+--botao-azul:#167BF7;
 --cor-de-fundo:#00030C;
 --botao-azul-efeito: #3c92fa;
 --fonte-principal: 'Inter';
