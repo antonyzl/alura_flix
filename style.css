@@ -76,6 +76,7 @@ font-family: var(--fonte-principal);
 .secundario{
   align-items: center;
   margin: 0 10em;
+  text-align: center;
 }
 
 .descriçao_titulo{
